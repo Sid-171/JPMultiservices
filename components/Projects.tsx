@@ -4,14 +4,14 @@ import { useState } from "react";
 
 const projects = [
   {
-    title: "Jaganath Heights",
+    title: "Residental Buildings",
     desc: "Premium residential project with modern infrastructure.",
     cover: "/images/jaganath.jpeg",
 
     gallery: [
       "/images/jaganath.jpeg",
       "/images/res.jpeg",
-      "/images/review2.jpeg",
+      "/images/res1.jpeg",
     ],
   },
 
@@ -23,19 +23,21 @@ const projects = [
     gallery: [
       "/images/ram.jpeg",
       "/images/interior.jpeg",
-      "/images/review4.jpeg",
+      "/images/bung1.jpeg",
+      "/images/bung2.jpeg",
+      "/images/bung3.jpeg"
     ],
   },
 
   {
-    title: "Commercial Office",
+    title: "Hospital and Commercial Office",
     desc: "Modern office space designed for productivity and elegance.",
     cover: "/images/services.jpeg",
 
     gallery: [
-      "/images/services.jpeg",
+      "/images/hos3.jpeg",
       "/images/offices.jpeg",
-      "/images/review2.jpeg",
+      "/images/hos1.jpeg",
     ],
   },
 ];
