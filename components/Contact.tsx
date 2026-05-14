@@ -24,8 +24,8 @@ const Contact = () => {
           </p>
 
           <div className="mt-10 space-y-4 text-lg">
-            <p>📍 Pune, Maharashtra</p>
-            <p>📞 +91 9876543210</p>
+            <p>📍 Nashik, Maharashtra</p>
+            <p>📞 +91 9822649225</p>
             <p>✉️ jpmultiservicesnsk@gmail.com</p>
           </div>
         </div>

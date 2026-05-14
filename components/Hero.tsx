@@ -30,7 +30,7 @@ const Hero = () => {
 
       <div className="flex-1">
         <Image
-          src="/images/MainLogo.png"
+          src="/images/mainLogo.png"
           alt="construction"
           width={700}
           height={700}
