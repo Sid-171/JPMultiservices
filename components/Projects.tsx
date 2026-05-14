@@ -4,7 +4,7 @@ import { useState } from "react";
 
 const projects = [
   {
-    title: "Residental Buildings",
+    title: "Residential Buildings",
     desc: "Premium residential project with modern infrastructure.",
     cover: "/images/jaganath.jpeg",
 
