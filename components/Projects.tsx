@@ -10,7 +10,6 @@ const projects = [
 
     gallery: [
       "/images/jaganath.jpeg",
-      "/images/res.jpeg",
       "/images/res1.jpeg",
     ],
   },
